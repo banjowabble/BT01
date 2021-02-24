@@ -1,2 +1,2 @@
 # BT01
-Exercises for week 1 
+Exercises for the 1st week
